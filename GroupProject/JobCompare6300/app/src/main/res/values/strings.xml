@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JobCompare6300</string>
+    <string name="addCurrentJob">Add your current job</string>
+    <string name="editCurrentJob">Edit your current job</string>
+    <string name="job_compare">Job Compare</string>
+    <string name="enter_job_offer_details">Enter Job Offer Details</string>
+    <string name="adjust_comparison_settings">Adjust Comparison Settings</string>
+    <string name="compare_job_offers">Compare Job Offers</string>
+    <string name="title_activity_current_job">Current Job</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="current_job_details">Current Job Details</string>
+    <string name="title">Title</string>
+    <string name="company">Company</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="cost_of_living_index">Cost of Living Index</string>
+    <string name="yearly_salary">Yearly Salary</string>
+    <string name="yearly_bonus">Yearly Bonus</string>
+    <string name="allowed_telework_days">Allowed Telework Days</string>
+    <string name="leave_time_days">Leave Time Days</string>
+    <string name="gym_allowance">Gym Allowance</string>
+    <string name="save_current_job">Save Current Job</string>
+    <string name="title_activity_job_offers">JobOffersActivity</string>
+    <string name="currentjob">Current Job</string>
+    <string name="compare_jobs">Compare Jobs</string>
+    <string name="set_current_job">Set Current Job</string>
+    <string name="job_1">Job 1</string>
+    <string name="job_2">Job 2</string>
+</resources>
